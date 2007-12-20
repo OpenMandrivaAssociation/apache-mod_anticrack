@@ -23,6 +23,7 @@ Requires:	apache >= %{apache_version}
 BuildRequires:	apache-devel >= %{apache_version}
 BuildRequires:	mysql-devel
 BuildRequires:	dos2unix
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 The mod_anticrack module is designed to thwart attempts at cracking into
