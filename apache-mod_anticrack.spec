@@ -7,7 +7,7 @@
 Summary:	Mod_AntiCrack module for Apache 2.x
 Name:		apache-%{mod_name}
 Version:	0.3
-Release:	%mkrel 4
+Release:	%mkrel 5
 Group:		System/Servers
 License:	GPL
 URL:		http://www.uglyboxindustries.com/
