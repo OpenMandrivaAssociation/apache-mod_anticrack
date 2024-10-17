@@ -10,7 +10,7 @@ Version:	0.3
 Release:	%mkrel 17
 Group:		System/Servers
 License:	GPL
-URL:		http://www.uglyboxindustries.com/
+URL:		https://www.uglyboxindustries.com/
 Source0:	http://www.uglyboxindustries.com/%{mod_name}-%{version}.tar.gz
 Source1:	http://www.uglyboxindustries.com/mod_anticrack.html
 Source2:	%{mod_conf}
